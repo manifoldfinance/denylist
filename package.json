@@ -1,0 +1,14 @@
+{
+  "name": "@manifoldfinance/denylist-contracts",
+  "version": "0.0.1",
+  "description": "list of contract addressess to ignore and/or ban",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SEE CONTRIBUTORS",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "web3": "^1.3.1"
+  }
+}
