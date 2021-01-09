@@ -4,7 +4,8 @@
 
 ## Overview
 
+List of Contract Addresses that are malicous, depreciated, or not to be allowed access
 
-## License 
+## License
 
-GPL-2.0
+ISC
