@@ -47,4 +47,5 @@ module.exports = [
   '0x7af91c398b3afd07978579a9ff93899f2c3b1d78', // Junk
   '0x38c6a68304cdefb9bec48bbfaaba5c5b47818bb2', // Non-standard erc20
   '0x55f044ce437085ca8a0b6eb2bea500c32c0812c1', // Junk
+  '0xd882cfc20f52f2599d84b8e8d58c7fb62cfe344b', // OFAC
 ]
