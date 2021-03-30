@@ -1,14 +1,13 @@
 {
   "name": "@manifoldfinance/denylist-contracts",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "description": "list of contract addressess to ignore and/or ban",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx prettier --config .prettierrc.js --write ."
   },
   "author": "SEE CONTRIBUTORS",
   "license": "ISC",
   "dependencies": {
-    "web3": "^1.3.1"
   }
 }
